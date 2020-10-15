@@ -80,6 +80,7 @@ To browse all public datasets, click the "Datasets" link at the top menu bar. Th
 ### Downloading Dataset Contents
 
 To download the contents of a dataset, you can reach the FTP url of each dataset by click the FTP link.
+There are various FTP clients, which can be used. Windows user can also simply paste the FTP Url into the file explore browser to access and download the folders and files. 
 
 ![img](img/datasets/dataset_ftp.png)
 
